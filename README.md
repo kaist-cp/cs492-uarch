@@ -12,7 +12,7 @@
 - Announcements: in the [issue tracker](https://github.com/kaist-cp/cs492-uarch/issues?q=is%3Aissue+is%3Aopen+label%3Aannouncement)
   + We assume that you will read each announcement within 24 hours.
   + We strongly recommend you watch the repository.
-- TA: TBA
+- TA: [Minseong Jang](https://cp.kaist.ac.kr/minseong.jang), [Jungin Rhee](https://cp.kaist.ac.kr/jungin.rhee)
   + Office Hours: Fri 9:00-10:00, Rm. 4441, Bldg. E3-1.
     If you want to come, do so by 9:15.
     See [below](https://github.com/kaist-cp/cs492-uarch#rules) for the office hour policy.
