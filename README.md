@@ -34,7 +34,9 @@ TBA
 
 ### Textbook
 
-TBA
+- Lecture note (TBA)
+- Fearless HDL User Guide (TBA)
+- Fearless HDL Reference Manual (TBA)
 
 
 ### Prerequisites
@@ -48,14 +50,27 @@ TBA
 
   A solid foundation in these areas is crucial for success in this course.
 
-- Other recommended knowledge that will be beneficial:
-
-    + [Rust](https://www.rust-lang.org/)
+- It is **strongly recommended** that students can speak the [Rust programming language](https://www.rust-lang.org/).
 
 
 ### Schedule
 
-TBA
+- Weak 01: Introduction
+- Weak 02: RTL and Verilog
+- Weak 03: RTL debugging
+- Weak 04: Modular RTL design (1/2)
+- Weak 05: Modular RTL design (2/2)
+- Weak 06: Pipelined RISC processor (1/2)
+- Weak 07: Pipelined RISC processor (2/2)
+- Weak 08: No class (midterm exam period)
+- Weak 09: AI accelerator (1/3)
+- Weak 10: AI accelerator (2/3)
+- Weak 11: AI accelerator (3/3)
+- Weak 12: RTL analysis tools (1/2)
+- Weak 13: RTL analysis tools (2/2)
+- Weak 14: High-level synthesis
+- Weak 15: Invited talks
+- Weak 16: No class (final exam period)
 
 
 ### Tools
