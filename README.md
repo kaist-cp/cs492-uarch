@@ -20,16 +20,20 @@
 - **IMPORTANT**: you should not expose your work to others. In particular, you should not fork the [upstream](https://github.com/kaist-cp/cs492-uarch) and push there.
 
 
-## Course description
+## Course Description
 
 ### Context
 
-TBA
+It is ["A Golden Age for Computer Architecture"](https://www.youtube.com/watch?v=aA5pqklkkvI), and also ["A Golden Age of Hardware Description Languages"](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SNAPL.2019.7).
+The demand for a tremendous amount of computation necessitates the development of purpose-built, specialized hardware (also known as accelerators), and consequently, productive RTL design tools (such as hardware description languages or HDLs) for these accelerators.
 
 
 ### Goal
 
-TBA
+In this course, you will learn an opinionated RTL design process, specifically using "Fearless HDL," developed at the [KAIST Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr/hardware/).
+Fearless HDL facilitates modular RTL design of pipelines even in the presence of hazards.
+Unlike existing high-level HDL and high-level synthesis tools for similar purposes, Fearless HDL aims to provide predictable performance, power, and area (PPA) transparently to designers.
+By understanding and developing designs in Fearless HDL, students are expected to build a modern and effective perspective on RTL designs.
 
 
 ### Textbook
@@ -168,7 +172,7 @@ Ensure you are proficient with the following development tools:
 
 - We will use [Safe Exam Browser](https://safeexambrowser.org/) to prevent cheatings.
   - You should have your laptop configured with Safe Exam Browser before the exam. 
-  - TBA: Details will be announced later. 
+  - Details will be announced later (TBA).
 
 ### Attendance (?%)
 
