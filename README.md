@@ -64,14 +64,14 @@ By understanding and developing designs in Fearless HDL, students are expected t
 - Weak 03: RTL debugging
 - Weak 04: Modular RTL design (1/2)
 - Weak 05: Modular RTL design (2/2)
-- Weak 06: Pipelined RISC processor (1/2)
-- Weak 07: Pipelined RISC processor (2/2)
+- Weak 06: Pipelined RISC processor (1/3)
+- Weak 07: Pipelined RISC processor (2/3)
 - Weak 08: No class (midterm exam period)
-- Weak 09: AI accelerator (1/3)
-- Weak 10: AI accelerator (2/3)
-- Weak 11: AI accelerator (3/3)
-- Weak 12: RTL analysis tools (1/2)
-- Weak 13: RTL analysis tools (2/2)
+- Weak 09: Pipelined RISC processor (3/3)
+- Weak 10: AI accelerator (1/3)
+- Weak 11: AI accelerator (2/3)
+- Weak 12: AI accelerator (3/3)
+- Weak 13: RTL analysis tools
 - Weak 14: High-level synthesis
 - Weak 15: Invited talks
 - Weak 16: No class (final exam period)
@@ -151,14 +151,14 @@ Ensure you are proficient with the following development tools:
     + Search for "code plagiarism detector" on Google Images to understand how these tools can identify advanced forms of plagiarism.
       Do not attempt plagiarism in any form.
 
-### Programming Assignments (60%)
+### Programming Assignments (80%)
 
 - All assignments will be announced at the start of the semester.
 - Submit your solutions to <https://gg.kaist.ac.kr/course/21>.
 - You are **permitted** to use ChatGPT or other LLMs.
 
 
-### Midterm and Final Exams (40%)
+### Midterm and Final Exams (20%)
 
 - Dates & Times: Oct 21th (Mon), Dec 16th (Mon), 13:00-15:00
 
