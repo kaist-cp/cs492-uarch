@@ -59,22 +59,22 @@ By understanding and developing designs in HazardFlow HDL, students are expected
 
 ### Schedule
 
-- Weak 01: Introduction
-- Weak 02: RTL and Verilog
-- Weak 03: RTL debugging
-- Weak 04: Modular RTL design (1/2)
-- Weak 05: Modular RTL design (2/2)
-- Weak 06: Pipelined RISC processor (1/3)
-- Weak 07: Pipelined RISC processor (2/3)
-- Weak 08: No class (midterm exam period)
-- Weak 09: Pipelined RISC processor (3/3)
-- Weak 10: AI accelerator (1/3)
-- Weak 11: AI accelerator (2/3)
-- Weak 12: AI accelerator (3/3)
-- Weak 13: RTL analysis tools
-- Weak 14: High-level synthesis
-- Weak 15: Invited talks
-- Weak 16: No class (final exam period)
+- Week 01: Introduction
+- Week 02: RTL and Verilog
+- Week 03: RTL debugging
+- Week 04: Modular RTL design (1/2)
+- Week 05: Modular RTL design (2/2)
+- Week 06: Pipelined RISC processor (1/3)
+- Week 07: Pipelined RISC processor (2/3)
+- Week 08: No class (midterm exam period)
+- Week 09: Pipelined RISC processor (3/3)
+- Week 10: AI accelerator (1/3)
+- Week 11: AI accelerator (2/3)
+- Week 12: AI accelerator (3/3)
+- Week 13: RTL analysis tools
+- Week 14: High-level synthesis
+- Week 15: Invited talks
+- Week 16: No class (final exam period)
 
 
 ### Tools
@@ -158,9 +158,9 @@ Ensure you are proficient with the following development tools:
 - You are **permitted** to use ChatGPT or other LLMs.
 
 
-### Midterm and Final Exams (20%)
+### Final Exam (20%)
 
-- Dates & Times: Oct 21th (Mon), Dec 16th (Mon), 13:00-15:00
+- Dates & Times: Dec 16th (Mon), 13:00-15:00
 
 - Location: (the same as usual)
 
