@@ -30,17 +30,17 @@ The demand for a tremendous amount of computation necessitates the development o
 
 ### Goal
 
-In this course, you will learn an opinionated RTL design process, specifically using "Fearless HDL," developed at the [KAIST Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr/hardware/).
-Fearless HDL facilitates modular RTL design of pipelines even in the presence of hazards.
-Unlike existing high-level HDL and high-level synthesis tools for similar purposes, Fearless HDL aims to provide predictable performance, power, and area (PPA) transparently to designers.
-By understanding and developing designs in Fearless HDL, students are expected to build a modern and effective perspective on RTL designs.
+In this course, you will learn an opinionated RTL design process, specifically using "HazardFlow HDL", developed at the [KAIST Concurrency and Parallelism Laboratory](https://cp.kaist.ac.kr/hardware/).
+HazardFlow HDL facilitates modular RTL design of pipelines even in the presence of hazards.
+Unlike existing high-level HDL and high-level synthesis tools for similar purposes, HazardFlow HDL aims to provide predictable performance, power, and area (PPA) transparently to designers.
+By understanding and developing designs in HazardFlow HDL, students are expected to build a modern and effective perspective on RTL designs.
 
 
 ### Textbook
 
-- Lecture note (TBA)
-- Fearless HDL User Guide (TBA)
-- Fearless HDL Reference Manual (TBA)
+- Lecture note ([Google Docs](https://docs.google.com/document/d/1VddAsurGBaMQRDUtRzxSSitqBwzwy6uKHVh0ZlJUI60/edit?usp=sharing))
+- HazardFlow HDL User Guide ([mdBook](https://kaist-cp.github.io/hazardflow/book/))
+- HazardFlow HDL Reference Manual ([rustdoc](https://kaist-cp.github.io/hazardflow/docs/hazardflow_designs/))
 
 
 ### Prerequisites
