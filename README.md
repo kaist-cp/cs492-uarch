@@ -116,9 +116,9 @@ Ensure you are proficient with the following development tools:
           $ git push -u origin main
           ```
 
-- Verilog (TBA)
-
 - [Rust](https://www.rust-lang.org/): The HDL we will use is embedded in Rust.
+
+- [Verilog](https://www.chipverify.com/tutorials/verilog): The Rust-embedded HDL we will use is compiled into Verilog. You need to be able to read Verilog code when debugging (e.g., analyzing waveforms).
 
 - [ChatGPT](https://chat.openai.com/) or other Large Language Models (LLMs) (optional): Useful for completing your homework.
     + In an AI-driven era, learning to effectively utilize AI in programming is crucial.
