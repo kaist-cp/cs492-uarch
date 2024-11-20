@@ -151,28 +151,11 @@ Ensure you are proficient with the following development tools:
     + Search for "code plagiarism detector" on Google Images to understand how these tools can identify advanced forms of plagiarism.
       Do not attempt plagiarism in any form.
 
-### Programming Assignments (80%)
+### Programming Assignments (100%)
 
 - All assignments will be announced at the start of the semester.
 - Submit your solutions to <https://gg.kaist.ac.kr/course/21>.
 - You are **permitted** to use ChatGPT or other LLMs.
-
-
-### Final Exam (20%)
-
-- Dates & Times: Dec 16th (Mon), 13:00-15:00
-
-- Location: (the same as usual)
-
-- Physical attendance is required.
-  If necessary, online participation via Zoom will be accommodated.
-
-- You are expected to bring your own laptop.
-  Laptops can also be borrowed from the School of Computing Administration Team.
-
-- We will use [Safe Exam Browser](https://safeexambrowser.org/) to prevent cheatings.
-  - You should have your laptop configured with Safe Exam Browser before the exam. 
-  - Details will be announced later (TBA).
 
 ### Attendance (?%)
 
